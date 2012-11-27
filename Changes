@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.002     2012-11-27
         - dzil pluginbundle TAPPER
 	- POD fixes [Shlomi Fish]
 
