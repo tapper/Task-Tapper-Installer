@@ -2,6 +2,7 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
         - dzil pluginbundle TAPPER
+	- POD fixes [Shlomi Fish]
 
 0.001     2012-09-06
         - Tapper - dependencies for machine installer
